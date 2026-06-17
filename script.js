@@ -27,7 +27,17 @@ const profiles = [
     github: 'https://github.com/CodeMochi-dev',
     linkedin: 'https://www.linkedin.com/in/valentina-llant%C3%A9n-robles-a2684a276/',
     cvPath: 'CVs/CV-ValentinaLLanten/index.html',
-},
+  },
+  {
+    name: 'Brandon Inostroza',
+    role: 'QA Automation · Full Stack Java',
+    bio: 'Ingeniero en Informática con base técnica sólida en desarrollo de aplicaciones y automatización de pruebas. Actualmente profundizando en el ecosistema Java a través del Bootcamp Full Stack de Generation Chile.',
+    image: 'CVs/CV-BDIC/img/foto.jpg',
+    banner: '#0891b2',
+    github: 'https://github.com/brandondic',
+    linkedin: 'https://linkedin.com/in/brandondic',
+    cvPath: 'CVs/CV-BDIC/index.html',
+  },
 ];
 
 const AVATAR_COLORS = [
